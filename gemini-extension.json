@@ -1,0 +1,11 @@
+{
+  "name": "posty",
+  "version": "1.0.0",
+  "description": "Write, schedule and publish social media posts with Posty: Facebook, Instagram, X, LinkedIn, TikTok, YouTube, Threads, Bluesky, Telegram, Discord and Slack. Preview every post per account, announce releases from your changelog, and manage your content calendar.",
+  "mcpServers": {
+    "posty": {
+      "httpUrl": "https://api.posty.hu/mcp-oauth"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}

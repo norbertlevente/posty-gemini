@@ -2,7 +2,7 @@
 
 Write, schedule and publish social media posts from Gemini CLI with
 [Posty](https://posty.hu): Facebook, Instagram, X, LinkedIn, TikTok, YouTube,
-Threads, Bluesky, Telegram, Discord and Slack. Posty previews every post per
+Threads, Bluesky, Telegram, Discord, Slack and Pinterest. Posty previews every post per
 account (name, @handle, local publish time, character count) and creates it
 only after you confirm.
 

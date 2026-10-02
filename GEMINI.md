@@ -2,7 +2,7 @@
 
 The `posty` MCP server schedules and publishes social media posts to the
 user's connected channels (Facebook, Instagram, X, LinkedIn, TikTok, YouTube,
-Threads, Bluesky, Telegram, Discord, Slack). On first use Gemini CLI opens
+Threads, Bluesky, Telegram, Discord, Slack, Pinterest). On first use Gemini CLI opens
 Posty's sign-in page in the browser; there is no key to paste.
 
 - Call `get_workspace_context` before you compute any date: it gives the
